@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=italomourati&label=Profile%20views&color=0e75b6&style=flat" alt="italomourati" /> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italomourati)](https://github.com/italomourati)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
